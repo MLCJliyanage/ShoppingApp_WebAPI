@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufG36ojYrxDRnD5hgF4Hj1oKI53+9uKVdUTKgjXdBbPgn+GxRL5gRFgYi9YHdI/ozFG1o5hFAqwed3Xl3NR2+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Bench Assingment\\Project_Repos\\ShoppingApp_WebAPI\\ShoppingApp_Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
